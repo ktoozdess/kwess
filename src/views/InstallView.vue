@@ -34,10 +34,7 @@
                 <img src="../assets/Ascreen3.png" alt="">
                 <p>stage 3</p>
             </div>
-            <div class="image">
-                <img src="../assets/Ascreen4.png" alt="">
-                <p>stage 4</p>
-            </div>
+
         </div>
     </div>
 </template>

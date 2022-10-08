@@ -48,6 +48,12 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/ForKidsView.vue'),
     props: true
   },
+  {
+    path: '/InstallView',
+    name: 'InstallView',
+
+    component: () => import(/* webpackChunkName: "about" */ '../views/InstallView.vue'),
+  },
 ]
 
 

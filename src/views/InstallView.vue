@@ -1,5 +1,5 @@
 <template>
-    <div class="install-Instructions-wrapper">
+    <div  class="install-Instructions-wrapper animate__animated animate__fadeIn animate__delay-1s">
         <h3>Instructions for ios</h3>
         <div class="screens-wrapper">
             <div class="image">
@@ -49,7 +49,7 @@ export default {
     }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
     .install-Instructions-wrapper{
         margin-top: 26px;
         h3{

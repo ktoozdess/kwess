@@ -13,7 +13,7 @@ export default {
     name: 'InstallItem'
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 .install-wrapper{
   background-color: #e6d1f9;
   display: flex;
